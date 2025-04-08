@@ -1,0 +1,8 @@
+[flake8]
+
+max-line-length = 100
+max-complexity = 10
+include = *.py
+format = default
+show-source = True
+statistics = True
